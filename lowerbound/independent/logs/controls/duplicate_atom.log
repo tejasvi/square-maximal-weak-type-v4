@@ -1,0 +1,3 @@
+FAIL: two atoms at the same point
+RESULT: FAIL
+rc 1

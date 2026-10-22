@@ -1,0 +1,4 @@
+(C3) (1/2) int K in [3.61574870675546928255398084 +/- 4.96e-27]  upper 3.615748706755469
+(C1/C2) K checks: 435 knot cells, failures 0  t=0.1
+(C4) A K checks: delta = h/8, cells evaluated 17360, failures 0, min cell lower bound 6.018e-06  t=2.2
+PASS

@@ -1,0 +1,2305 @@
+# Groups relative to https://github.com/CoolRmal/partial-balayage-lean at 0055cdf5b947f4e23b0b736a297ab38b48b1a270
+unchanged LICENSE
+unchanged LICENSE-Lin  (copy of LICENSE)
+unchanged lake-manifest.json
+modified  lakefile.toml  (non-Lean file)
+unchanged lean-toolchain
+unchanged CenteredMaximal/Basic.lean
+unchanged CenteredMaximal/Statement.lean
+unchanged CenteredMaximal/Analysis/WeakCompact.lean
+unchanged CenteredMaximal/Ball/BallFlux.lean
+unchanged CenteredMaximal/Ball/BallWeakDistribution.lean
+unchanged CenteredMaximal/Ball/Basic.lean
+unchanged CenteredMaximal/Ball/CenterLimits.lean
+unchanged CenteredMaximal/Ball/CompactSupportIBP.lean
+unchanged CenteredMaximal/Ball/Comparison.lean
+unchanged CenteredMaximal/Ball/Constants.lean
+unchanged CenteredMaximal/Ball/DirichletForm.lean
+unchanged CenteredMaximal/Ball/DirichletH01.lean
+unchanged CenteredMaximal/Ball/DirichletLattice.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareBounded.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareBoxSlice.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareDensity.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareDomain.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareFubini.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareGeometry.lean
+unchanged CenteredMaximal/Ball/DirichletPoincareOneDim.lean
+unchanged CenteredMaximal/Ball/DirichletPositivePart.lean
+unchanged CenteredMaximal/Ball/DirichletSmoothComposition.lean
+unchanged CenteredMaximal/Ball/GreenIdentity.lean
+unchanged CenteredMaximal/Ball/GreenKernel.lean
+unchanged CenteredMaximal/Ball/GreenPairing.lean
+unchanged CenteredMaximal/Ball/KernelScaling.lean
+unchanged CenteredMaximal/Ball/LocalMollifier.lean
+unchanged CenteredMaximal/Ball/LocalMollifierDistribution.lean
+unchanged CenteredMaximal/Ball/LocalMollifierLaplacian.lean
+unchanged CenteredMaximal/Ball/LocalWeakPairing.lean
+unchanged CenteredMaximal/Ball/MonotoneSurjectivity.lean
+unchanged CenteredMaximal/Ball/NewtonianMass.lean
+unchanged CenteredMaximal/Ball/ObstacleExistence.lean
+unchanged CenteredMaximal/Ball/PlanarMass.lean
+unchanged CenteredMaximal/Ball/PlanarNormalized.lean
+unchanged CenteredMaximal/Ball/PolarSwap.lean
+unchanged CenteredMaximal/Ball/RadialGreenCalculus.lean
+unchanged CenteredMaximal/Ball/RadialGreenLimit.lean
+unchanged CenteredMaximal/Ball/RadialMassDerivative.lean
+unchanged CenteredMaximal/Ball/ScaledGreenPairing.lean
+unchanged CenteredMaximal/Ball/ShellLimit.lean
+unchanged CenteredMaximal/Ball/SmoothBallCutoff.lean
+unchanged CenteredMaximal/Ball/WeakGreenPairing.lean
+unchanged CenteredMaximal/Ball/WeakLaplacianTests.lean
+unchanged CenteredMaximal/Ball/WeakPairingDensity.lean
+ours      Hl47a/Main.lean
+ours      Hl47a/Statement.lean
+unchanged PartialBalayage/TableDefinitions.lean
+unchanged PartialBalayage/Constants/Radial.lean
+unchanged PartialBalayage/Linear/AENonnegOfSmoothTests.lean
+unchanged PartialBalayage/Linear/CapComplementarity.lean
+unchanged PartialBalayage/Linear/CapEnergy.lean
+unchanged PartialBalayage/Linear/CapVariational.lean
+unchanged PartialBalayage/Linear/CompactSobolevDensity.lean
+unchanged PartialBalayage/Linear/DirichletDual.lean
+unchanged PartialBalayage/Linear/DirichletTestClosure.lean
+unchanged PartialBalayage/Linear/ExhaustionWeakEquation.lean
+unchanged PartialBalayage/Linear/ExtendedEnergyMassIdentity.lean
+unchanged PartialBalayage/Linear/FiniteDensityExhaustion.lean
+unchanged PartialBalayage/Linear/FourierCoercivity.lean
+unchanged PartialBalayage/Linear/FourierDirichletEnergy.lean
+unchanged PartialBalayage/Linear/FourierEnergySplit.lean
+unchanged PartialBalayage/Linear/FourierL1L2.lean
+unchanged PartialBalayage/Linear/FourierSobolevGraph.lean
+unchanged PartialBalayage/Linear/FractionalCutoffBound.lean
+unchanged PartialBalayage/Linear/IsotropicEnergySpace.lean
+unchanged PartialBalayage/Linear/JointWeakCompactness.lean
+unchanged PartialBalayage/Linear/L1NormFunctional.lean
+unchanged PartialBalayage/Linear/L2DomainRestriction.lean
+unchanged PartialBalayage/Linear/L2ZeroExtension.lean
+unchanged PartialBalayage/Linear/LaplacianProduct.lean
+unchanged PartialBalayage/Linear/LevelSet.lean
+unchanged PartialBalayage/Linear/LocalCutoffEquation.lean
+unchanged PartialBalayage/Linear/LocalCutoffLaplacian.lean
+unchanged PartialBalayage/Linear/LocalCutoffRegularity.lean
+unchanged PartialBalayage/Linear/LocalCutoffZeroSet.lean
+unchanged PartialBalayage/Linear/LocalSecondSobolev.lean
+unchanged PartialBalayage/Linear/MollifierL2.lean
+unchanged PartialBalayage/Linear/MollifierL2Convergence.lean
+unchanged PartialBalayage/Linear/NormCap.lean
+unchanged PartialBalayage/Linear/ScalarDirichletInterpolation.lean
+unchanged PartialBalayage/Linear/ScalarIntervalCap.lean
+unchanged PartialBalayage/Linear/ScalarPositiveObstacle.lean
+unchanged PartialBalayage/Linear/ScalarStateExhaustion.lean
+unchanged PartialBalayage/Linear/SecondGraphWeakLaplacian.lean
+unchanged PartialBalayage/Linear/SecondSobolevZeroSet.lean
+unchanged PartialBalayage/Linear/SobolevCoordinateMass.lean
+unchanged PartialBalayage/Linear/SobolevDistributionGradient.lean
+unchanged PartialBalayage/Linear/SobolevZeroExtension.lean
+unchanged PartialBalayage/Linear/SobolevZeroSet.lean
+unchanged PartialBalayage/Linear/StableGeneratorScaling.lean
+unchanged PartialBalayage/Linear/StableSecondDifference.lean
+unchanged PartialBalayage/Linear/UniformFiniteStateBounds.lean
+unchanged PartialBalayage/Linear/VectorActiveMass.lean
+unchanged PartialBalayage/Linear/VectorBalayageFinite.lean
+unchanged PartialBalayage/Linear/VectorDirichlet.lean
+unchanged PartialBalayage/Linear/VectorDirichletEnergy.lean
+unchanged PartialBalayage/Linear/VectorDirichletMass.lean
+unchanged PartialBalayage/Linear/VectorInactiveLocality.lean
+unchanged PartialBalayage/Linear/VectorSobolevComposition.lean
+unchanged PartialBalayage/Linear/VectorSobolevExtension.lean
+unchanged PartialBalayage/Linear/VectorStateCoercivity.lean
+unchanged PartialBalayage/Linear/WeakDirichletComplementarity.lean
+unchanged PartialBalayage/Linear/WeakDirichletEnergy.lean
+unchanged PartialBalayage/Linear/WholeSpaceDensityMass.lean
+unchanged PartialBalayage/Linear/WholeSpaceL1Norm.lean
+unchanged PartialBalayage/Linear/WholeSpaceMassCompactness.lean
+unchanged PartialBalayage/Linear/WholeSpaceStateExhaustion.lean
+unchanged PartialBalayage/Linear/WholeSpaceWeakPDE.lean
+unchanged PartialBalayage/Linear/ZeroExtensionMass.lean
+unchanged PartialBalayage/Linear/ZeroExtensionWeakEquation.lean
+unchanged PartialBalayage/Maximal/AffineRadialScaling.lean
+unchanged PartialBalayage/Maximal/BoundedSourceTransfer.lean
+unchanged PartialBalayage/Maximal/CappedMaximalLevelSet.lean
+unchanged PartialBalayage/Maximal/Definitions.lean
+unchanged PartialBalayage/Maximal/HarmonicCenterLimits.lean
+unchanged PartialBalayage/Maximal/HarmonicRadialIntegrability.lean
+unchanged PartialBalayage/Maximal/HeatKernel.lean
+unchanged PartialBalayage/Maximal/HeatMajorant.lean
+unchanged PartialBalayage/Maximal/JoinedRadialKernelIntegrability.lean
+unchanged PartialBalayage/Maximal/KernelContactCap.lean
+unchanged PartialBalayage/Maximal/KernelWeakBoundTransfer.lean
+unchanged PartialBalayage/Maximal/L1KernelL2.lean
+unchanged PartialBalayage/Maximal/L2MollifiedSource.lean
+unchanged PartialBalayage/Maximal/NormTruncation.lean
+unchanged PartialBalayage/Maximal/PoissonMajorant.lean
+unchanged PartialBalayage/Maximal/RadialFluxComparison.lean
+unchanged PartialBalayage/Maximal/RadialKernelComparison.lean
+unchanged PartialBalayage/Maximal/RadialKernelPairing.lean
+unchanged PartialBalayage/Maximal/RadialLocalIntegrability.lean
+unchanged PartialBalayage/Maximal/RadialPairingGeometry.lean
+unchanged PartialBalayage/Maximal/RadialTangentMass.lean
+unchanged PartialBalayage/Maximal/SemigroupDefinitions.lean
+unchanged PartialBalayage/Maximal/SemigroupKernelPairing.lean
+unchanged PartialBalayage/Maximal/SemigroupTimeContinuity.lean
+unchanged PartialBalayage/Maximal/SobolevKernelSourceBound.lean
+modified  PartialBalayage/Maximal/SquareWeakBounds.lean
+modified  PartialBalayage/Maximal/Square/AbsPowerTaylor.lean
+modified  PartialBalayage/Maximal/Square/AffineCellPolynomial.lean
+unchanged PartialBalayage/Maximal/Square/ArrayPolynomial.lean
+ours      PartialBalayage/Maximal/Square/BandBinomial.lean
+ours      PartialBalayage/Maximal/Square/BandCorner.lean
+ours      PartialBalayage/Maximal/Square/BandCoverage.lean
+ours      PartialBalayage/Maximal/Square/BandDensity.lean
+ours      PartialBalayage/Maximal/Square/BandLeaf.lean
+ours      PartialBalayage/Maximal/Square/BandLeafBlocks.lean
+ours      PartialBalayage/Maximal/Square/BandLeafIntCheck.lean
+ours      PartialBalayage/Maximal/Square/BandLine2.lean
+ours      PartialBalayage/Maximal/Square/BandMoments.lean
+ours      PartialBalayage/Maximal/Square/BandPartitionCoverage.lean
+ours      PartialBalayage/Maximal/Square/BandPartitionRectangles.lean
+ours      PartialBalayage/Maximal/Square/BandProfile.lean
+ours      PartialBalayage/Maximal/Square/BandSeries.lean
+ours      PartialBalayage/Maximal/Square/BandSplit.lean
+ours      PartialBalayage/Maximal/Square/BandSplitBounds.lean
+unchanged PartialBalayage/Maximal/Square/Bernstein.lean
+modified  PartialBalayage/Maximal/Square/BetaBinomial.lean
+modified  PartialBalayage/Maximal/Square/BetaBound.lean
+modified  PartialBalayage/Maximal/Square/BetaIntegral.lean
+unchanged PartialBalayage/Maximal/Square/BetaPrimeIntegral.lean
+unchanged PartialBalayage/Maximal/Square/CellLocalCoefficient.lean
+unchanged PartialBalayage/Maximal/Square/CellMatrix.lean
+modified  PartialBalayage/Maximal/Square/CellPolynomial.lean
+modified  PartialBalayage/Maximal/Square/Coefficients.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedGeneratorConvolution.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedJumpSource.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedSourceBounds.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedSourcePairing.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedSourceState.lean
+unchanged PartialBalayage/Maximal/Square/CompensatedSourceTests.lean
+modified  PartialBalayage/Maximal/Square/CorrectionPolynomial.lean
+unchanged PartialBalayage/Maximal/Square/CubicIntervalBound.lean
+unchanged PartialBalayage/Maximal/Square/CubicSpline.lean
+modified  PartialBalayage/Maximal/Square/DiagonalBetaNormalization.lean
+modified  PartialBalayage/Maximal/Square/DiagonalBetaPrimitives.lean
+modified  PartialBalayage/Maximal/Square/DiagonalIntegralBoundary.lean
+modified  PartialBalayage/Maximal/Square/DiagonalIntegralDensity.lean
+modified  PartialBalayage/Maximal/Square/DiagonalIntegralEvaluation.lean
+unchanged PartialBalayage/Maximal/Square/DiamondAngularDerivative.lean
+unchanged PartialBalayage/Maximal/Square/DiamondAngularIntegral.lean
+unchanged PartialBalayage/Maximal/Square/DiamondAngularKernel.lean
+modified  PartialBalayage/Maximal/Square/DiamondAverageCap.lean
+unchanged PartialBalayage/Maximal/Square/DiamondBoundaryNull.lean
+modified  PartialBalayage/Maximal/Square/DiamondContactLevelBound.lean
+unchanged PartialBalayage/Maximal/Square/DiamondCoordinateIntegral.lean
+unchanged PartialBalayage/Maximal/Square/DiamondCoordinateProfiles.lean
+modified  PartialBalayage/Maximal/Square/DiamondGeneratorBasic.lean
+modified  PartialBalayage/Maximal/Square/DiamondGeneratorExterior.lean
+unchanged PartialBalayage/Maximal/Square/DiamondGeneratorHomogeneity.lean
+modified  PartialBalayage/Maximal/Square/DiamondGeneratorModel.lean
+unchanged PartialBalayage/Maximal/Square/DiamondLocalCuspBounds.lean
+modified  PartialBalayage/Maximal/Square/DiamondPuncturedSource.lean
+modified  PartialBalayage/Maximal/Square/DiamondSourceQuadratic.lean
+unchanged PartialBalayage/Maximal/Square/DiamondSquareTransport.lean
+unchanged PartialBalayage/Maximal/Square/DiamondStripVolume.lean
+unchanged PartialBalayage/Maximal/Square/DiamondTruncationTail.lean
+modified  PartialBalayage/Maximal/Square/DiamondWeakTransfer.lean
+unchanged PartialBalayage/Maximal/Square/DilatedKernelSource.lean
+unchanged PartialBalayage/Maximal/Square/DilatedSourceSigmaFinite.lean
+modified  PartialBalayage/Maximal/Square/EuclideanDiamondMaximal.lean
+unchanged PartialBalayage/Maximal/Square/EuclideanDiamondTransport.lean
+modified  PartialBalayage/Maximal/Square/ExteriorGeneratorPositivity.lean
+modified  PartialBalayage/Maximal/Square/FirstGeneratorLeaf.lean
+unchanged PartialBalayage/Maximal/Square/FullCompensatedSource.lean
+unchanged PartialBalayage/Maximal/Square/GeneratorAlgebra.lean
+modified  PartialBalayage/Maximal/Square/GeneratorCellCoefficients.lean
+modified  PartialBalayage/Maximal/Square/GeneratorConstantBound.lean
+modified  PartialBalayage/Maximal/Square/GeneratorCoordinateData.lean
+modified  PartialBalayage/Maximal/Square/GeneratorCubicIntervalData.lean
+unchanged PartialBalayage/Maximal/Square/GeneratorCutoff.lean
+modified  PartialBalayage/Maximal/Square/GeneratorFiniteKnots.lean
+ours      PartialBalayage/Maximal/Square/GeneratorIntCore.lean
+ours      PartialBalayage/Maximal/Square/GeneratorIntData.lean
+modified  PartialBalayage/Maximal/Square/GeneratorInteriorPositivity.lean
+modified  PartialBalayage/Maximal/Square/GeneratorInteriorRectangle.lean
+modified  PartialBalayage/Maximal/Square/GeneratorInteriorTransport.lean
+modified  PartialBalayage/Maximal/Square/GeneratorLeafBlocks.lean
+modified  PartialBalayage/Maximal/Square/GeneratorLeafData.lean
+modified  PartialBalayage/Maximal/Square/GeneratorLeafFastCheck.lean
+ours      PartialBalayage/Maximal/Square/GeneratorLeafIntCheck.lean
+modified  PartialBalayage/Maximal/Square/GeneratorLeafSparseCheck.lean
+unchanged PartialBalayage/Maximal/Square/GeneratorMeasurability.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPartitionCoverage.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPartitionRectangles.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPartitionTree.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPowerCache.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPowerReflection.lean
+modified  PartialBalayage/Maximal/Square/GeneratorPowerTaylorData.lean
+modified  PartialBalayage/Maximal/Square/GeneratorRadialRootData.lean
+modified  PartialBalayage/Maximal/Square/GeneratorRadialRoots.lean
+unchanged PartialBalayage/Maximal/Square/GeneratorRectangleGeometry.lean
+modified  PartialBalayage/Maximal/Square/GeneratorRectangleLower.lean
+modified  PartialBalayage/Maximal/Square/GeneratorRectangleSubdivision.lean
+unchanged PartialBalayage/Maximal/Square/GeneratorScaling.lean
+ours      PartialBalayage/Maximal/Square/GeneratorShapeGeometry.lean
+modified  PartialBalayage/Maximal/Square/GeneratorTensorApproximation.lean
+modified  PartialBalayage/Maximal/Square/GeneratorUnitCellCover.lean
+modified  PartialBalayage/Maximal/Square/IncomingCoefficientData.lean
+modified  PartialBalayage/Maximal/Square/IncomingTailEvaluator.lean
+modified  PartialBalayage/Maximal/Square/Integrability.lean
+unchanged PartialBalayage/Maximal/Square/IntervalFiniteSum.lean
+unchanged PartialBalayage/Maximal/Square/JumpBallObstacle.lean
+unchanged PartialBalayage/Maximal/Square/JumpBallUniformBounds.lean
+unchanged PartialBalayage/Maximal/Square/JumpCompactTests.lean
+unchanged PartialBalayage/Maximal/Square/JumpContactLimit.lean
+unchanged PartialBalayage/Maximal/Square/JumpCutoffApproximation.lean
+unchanged PartialBalayage/Maximal/Square/JumpCutoffEnergy.lean
+unchanged PartialBalayage/Maximal/Square/JumpDensityMass.lean
+unchanged PartialBalayage/Maximal/Square/JumpDirichletSpace.lean
+unchanged PartialBalayage/Maximal/Square/JumpEnergy.lean
+unchanged PartialBalayage/Maximal/Square/JumpEnergyMassExhaustion.lean
+unchanged PartialBalayage/Maximal/Square/JumpFullWeakPDE.lean
+unchanged PartialBalayage/Maximal/Square/JumpGeneratorPairing.lean
+unchanged PartialBalayage/Maximal/Square/JumpNash.lean
+unchanged PartialBalayage/Maximal/Square/JumpNashReal.lean
+unchanged PartialBalayage/Maximal/Square/JumpRectangleEnergy.lean
+unchanged PartialBalayage/Maximal/Square/JumpSupportedPairing.lean
+unchanged PartialBalayage/Maximal/Square/JumpTranslationControl.lean
+unchanged PartialBalayage/Maximal/Square/JumpWeakEnergyMass.lean
+unchanged PartialBalayage/Maximal/Square/JumpWeakPDE.lean
+unchanged PartialBalayage/Maximal/Square/JumpWeightedCompactness.lean
+unchanged PartialBalayage/Maximal/Square/JumpWeightedPairing.lean
+unchanged PartialBalayage/Maximal/Square/JumpWholeSpaceGenerator.lean
+unchanged PartialBalayage/Maximal/Square/JumpWholeSpaceObstacle.lean
+modified  PartialBalayage/Maximal/Square/Kernel.lean
+modified  PartialBalayage/Maximal/Square/KernelGeneratorAlmostEverywhere.lean
+modified  PartialBalayage/Maximal/Square/KernelGeneratorDensity.lean
+unchanged PartialBalayage/Maximal/Square/KernelGeneratorFubini.lean
+unchanged PartialBalayage/Maximal/Square/KernelGeneratorSymmetries.lean
+unchanged PartialBalayage/Maximal/Square/KernelGeneratorSymmetry.lean
+modified  PartialBalayage/Maximal/Square/KernelMajorization.lean
+ours      PartialBalayage/Maximal/Square/KernelMajorizationProof.lean
+ours      PartialBalayage/Maximal/Square/KernelMajorizationProofAssembly.lean
+ours      PartialBalayage/Maximal/Square/KernelMajorizationProofCore.lean
+modified  PartialBalayage/Maximal/Square/KernelMass.lean
+modified  PartialBalayage/Maximal/Square/KernelMassPositivity.lean
+modified  PartialBalayage/Maximal/Square/KernelPuncturedSource.lean
+unchanged PartialBalayage/Maximal/Square/KernelSourceIntegrability.lean
+modified  PartialBalayage/Maximal/Square/KernelSourceInteriorFormula.lean
+unchanged PartialBalayage/Maximal/Square/KernelSourceRepresentation.lean
+unchanged PartialBalayage/Maximal/Square/LiteralGeneratorCoefficient.lean
+unchanged PartialBalayage/Maximal/Square/LocalCoefficientRange.lean
+modified  PartialBalayage/Maximal/Square/MajorizationLeaf.lean
+modified  PartialBalayage/Maximal/Square/MajorizationTriangle.lean
+modified  PartialBalayage/Maximal/Square/MassCoefficientBound.lean
+unchanged PartialBalayage/Maximal/Square/MaximalTransport.lean
+unchanged PartialBalayage/Maximal/Square/MollifiedSourceEquation.lean
+unchanged PartialBalayage/Maximal/Square/MollifiedSourceRegularity.lean
+unchanged PartialBalayage/Maximal/Square/PolynomialEvaluation.lean
+modified  PartialBalayage/Maximal/Square/PowerBoundaryRemainder.lean
+modified  PartialBalayage/Maximal/Square/PowerEnclosure.lean
+modified  PartialBalayage/Maximal/Square/PowerTaylor.lean
+modified  PartialBalayage/Maximal/Square/PowerTaylorRemainder.lean
+unchanged PartialBalayage/Maximal/Square/QuadraticContactCutoff.lean
+modified  PartialBalayage/Maximal/Square/RadialCertificateBounds.lean
+unchanged PartialBalayage/Maximal/Square/RadialEndpointLimit.lean
+modified  PartialBalayage/Maximal/Square/RadialGeneratorDefinitions.lean
+unchanged PartialBalayage/Maximal/Square/RadialLocalSecondDifference.lean
+modified  PartialBalayage/Maximal/Square/RadialMass.lean
+modified  PartialBalayage/Maximal/Square/RadialModelLower.lean
+modified  PartialBalayage/Maximal/Square/RadialModelTangent.lean
+modified  PartialBalayage/Maximal/Square/RadialPlaneInterval.lean
+modified  PartialBalayage/Maximal/Square/RadialPowerData.lean
+modified  PartialBalayage/Maximal/Square/RadialPuncturedSource.lean
+modified  PartialBalayage/Maximal/Square/RadialRectangleTangent.lean
+modified  PartialBalayage/Maximal/Square/RadialTailBinomial.lean
+modified  PartialBalayage/Maximal/Square/RadialTailKernel.lean
+modified  PartialBalayage/Maximal/Square/RadialTailLowerBound.lean
+modified  PartialBalayage/Maximal/Square/RadialTailMoments.lean
+modified  PartialBalayage/Maximal/Square/RadialTangent.lean
+modified  PartialBalayage/Maximal/Square/RationalDiamondAverages.lean
+modified  PartialBalayage/Maximal/Square/RationalEvaluation.lean
+unchanged PartialBalayage/Maximal/Square/RationalInterval.lean
+unchanged PartialBalayage/Maximal/Square/RealBetaIntegral.lean
+ours      PartialBalayage/Maximal/Square/RectangleBernsteinBound.lean
+unchanged PartialBalayage/Maximal/Square/RectanglePolynomialBound.lean
+ours      PartialBalayage/Maximal/Square/RoundedSeries.lean
+unchanged PartialBalayage/Maximal/Square/SourceContactComparison.lean
+unchanged PartialBalayage/Maximal/Square/SourceGeneratorConvolution.lean
+unchanged PartialBalayage/Maximal/Square/SourceMomentIntegrability.lean
+modified  PartialBalayage/Maximal/Square/SparsePolynomial.lean
+modified  PartialBalayage/Maximal/Square/SplineGenerator.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorCancellation.lean
+unchanged PartialBalayage/Maximal/Square/SplineGeneratorCellPolynomial.lean
+unchanged PartialBalayage/Maximal/Square/SplineGeneratorCoefficientRange.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorCoefficients.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorFinite.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorPrimitive.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorRegrouping.lean
+modified  PartialBalayage/Maximal/Square/SplineGeneratorScaling.lean
+modified  PartialBalayage/Maximal/Square/SplineMass.lean
+unchanged PartialBalayage/Maximal/Square/SplinePotential.lean
+unchanged PartialBalayage/Maximal/Square/SplinePotentialEvaluation.lean
+unchanged PartialBalayage/Maximal/Square/SplineRegularity.lean
+unchanged PartialBalayage/Maximal/Square/SplineTaylorSum.lean
+modified  PartialBalayage/Maximal/Square/SquareDensityPositivity.lean
+unchanged PartialBalayage/Maximal/Square/SquareGridGeometry.lean
+modified  PartialBalayage/Maximal/Square/SquarePositiveSource.lean
+unchanged PartialBalayage/Maximal/Square/SquareSourceMeasure.lean
+modified  PartialBalayage/Maximal/Square/SquareSourcePrerequisites.lean
+modified  PartialBalayage/Maximal/Square/SquareWeakBoundOfSourcePositivity.lean
+modified  PartialBalayage/Maximal/Square/StableKernelContactCaps.lean
+unchanged PartialBalayage/Maximal/Square/SymmetricSourceRepresentation.lean
+modified  PartialBalayage/Maximal/Square/TaylorIntervalEnclosure.lean
+modified  PartialBalayage/Maximal/Square/TensorSplineGenerator.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpContact.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpEnergyLimit.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpFormLimit.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpGraph.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpL1Contact.lean
+unchanged PartialBalayage/Maximal/Square/TranslationJumpTests.lean
+unchanged PartialBalayage/Maximal/Square/TriangleBounds.lean
+unchanged PartialBalayage/Maximal/Square/TriangleGeometry.lean
+ours      PartialBalayage/Maximal/Square/Data/BandConstantsData.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks0.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks1.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks10.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks11.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks12.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks13.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks14.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks15.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks16.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks17.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks18.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks19.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks2.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks20.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks21.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks22.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks23.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks24.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks25.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks26.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks27.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks3.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks4.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks5.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks6.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks7.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks8.lean
+ours      PartialBalayage/Maximal/Square/Data/BandLeafBlocks9.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles0.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles1.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles10.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles11.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles12.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles13.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles14.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles15.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles16.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles17.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles18.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles19.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles2.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles20.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles21.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles22.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles23.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles24.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles25.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles26.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles27.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles3.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles4.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles5.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles6.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles7.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles8.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionRectangles9.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees0.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees1.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees10.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees11.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees12.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees13.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees14.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees15.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees16.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees17.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees18.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees19.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees2.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees20.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees21.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees22.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees23.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees24.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees25.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees26.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees27.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees28.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees29.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees3.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees30.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees31.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees32.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees33.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees34.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees35.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees36.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees37.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees38.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees39.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees4.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees40.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees41.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees42.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees43.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees44.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees45.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees46.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees47.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees48.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees49.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees5.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees50.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees51.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees52.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees53.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees54.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees55.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees56.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees57.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees58.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees59.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees6.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees60.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees61.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees62.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees63.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees64.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees65.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees66.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees67.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees68.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees69.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees7.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees8.lean
+ours      PartialBalayage/Maximal/Square/Data/BandPartitionTrees9.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt0.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt1.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt10.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt11.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt12.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt13.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt14.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt15.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt16.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt17.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt18.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt19.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt2.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt20.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt21.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt22.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt23.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt24.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt25.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt26.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt27.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt28.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt29.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt3.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt30.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt31.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt32.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt33.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt34.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt35.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt36.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt37.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt38.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt39.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt4.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt40.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt41.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt42.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt43.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt44.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt45.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt46.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt47.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt48.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt49.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt5.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt50.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt51.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt52.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt53.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt54.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt55.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt56.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt57.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt58.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt59.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt6.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt60.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt61.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt62.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt63.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt64.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt65.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt66.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt67.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt68.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt69.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt7.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt70.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt71.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt8.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorCellInt9.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix0.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix1.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix10.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix11.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix12.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix13.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix14.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix15.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix16.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix17.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix18.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix19.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix2.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix20.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix21.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix22.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix23.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix24.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix25.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix26.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix27.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix28.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix29.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix3.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix30.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix31.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix32.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix33.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix34.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix35.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix36.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix37.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix38.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix39.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix4.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix40.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix41.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix42.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix43.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix44.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix45.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix46.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix47.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix48.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix49.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix5.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix50.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix51.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix52.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix53.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix54.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix55.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix56.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix57.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix58.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix59.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix6.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix60.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix61.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix62.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix63.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix64.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix65.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix66.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix67.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix68.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix69.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix7.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix70.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix71.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix8.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorCellMatrix9.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorIntDens.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks0.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks1.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks10.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks100.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks101.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks102.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks103.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks104.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks105.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks106.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks107.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks108.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks109.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks11.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks110.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks111.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks112.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks113.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks114.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks115.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks116.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks117.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks118.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks119.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks12.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks120.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks121.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks122.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks123.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks124.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks125.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks126.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks127.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks128.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks129.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks13.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks130.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks131.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks132.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks133.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks134.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks135.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks136.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks137.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks138.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks139.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks14.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks140.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks141.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks142.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks143.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks144.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks145.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks146.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks147.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks148.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks149.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks15.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks150.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks151.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks152.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks153.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks154.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks155.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks156.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks157.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks158.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks159.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks16.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks160.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks161.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks162.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks163.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks164.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks165.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks166.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks167.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks168.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks169.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks17.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks170.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks171.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks172.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks173.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks174.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks175.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks176.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks177.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks178.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks179.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks18.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks180.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks181.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks182.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks183.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks184.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks185.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks186.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks187.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks188.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks189.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks19.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks190.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks191.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks192.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks193.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks194.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks195.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks196.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks197.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks198.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks199.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks2.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks20.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks200.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks201.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks202.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks203.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks204.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks205.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks206.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks207.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks208.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks209.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks21.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks210.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks211.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks212.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks213.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks214.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks215.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks216.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks217.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks218.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks219.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks22.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks220.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks221.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks222.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks223.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks224.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks225.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks226.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks227.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks228.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks229.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks23.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks230.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks231.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks232.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks233.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks234.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks235.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks236.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks237.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks238.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks239.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks24.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks240.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks241.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks242.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks243.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks244.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks245.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks246.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks247.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks248.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks249.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks25.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks250.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks251.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks252.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks253.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks254.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks255.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks256.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks257.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks258.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks259.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks26.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks260.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks261.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks262.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks263.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks264.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks265.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks266.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks267.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks268.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks269.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks27.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks270.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks271.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks272.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks273.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks274.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks275.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks276.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks277.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks278.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks279.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks28.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks280.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks281.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks282.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks283.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks284.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks285.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks286.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks287.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks288.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks289.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks29.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks290.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks291.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks292.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks293.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks294.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks295.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks296.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks297.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks298.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks299.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks3.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks30.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks300.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks301.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks302.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks303.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks304.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks305.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks306.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks307.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks308.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks309.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks31.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks310.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks311.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks312.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks313.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks314.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks315.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks316.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks317.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks318.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks319.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks32.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks320.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks321.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks322.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks323.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks324.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks325.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks326.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks327.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks328.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks329.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks33.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks330.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks331.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks332.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks333.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks334.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks335.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks336.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks337.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks338.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks339.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks34.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks340.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks341.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks342.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks343.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks344.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks345.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks346.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks347.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks348.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks349.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks35.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks350.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks351.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks352.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks353.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks354.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks355.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks356.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks357.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks358.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks359.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks36.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks360.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks361.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks362.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks363.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks364.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks365.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks366.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks367.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks368.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks369.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks37.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks370.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks371.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks372.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks373.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks374.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks375.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks376.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks377.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks378.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks379.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks38.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks380.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks381.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks382.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks383.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks384.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks385.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks386.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks387.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks388.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks389.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks39.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks390.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks391.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks392.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks393.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks394.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks395.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks396.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks397.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks398.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks399.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks4.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks40.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks400.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks401.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks402.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks403.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks404.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks405.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks406.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks407.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks408.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks409.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks41.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks410.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks411.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks412.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks413.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks414.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks415.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks416.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks417.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks418.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks419.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks42.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks420.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks421.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks422.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks423.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks424.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks425.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks426.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks427.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks428.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks429.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks43.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks430.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks431.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks432.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks433.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks434.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks435.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks436.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks437.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks438.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks439.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks44.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks440.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks441.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks442.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks443.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks444.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks445.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks446.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks447.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks448.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks449.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks45.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks450.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks451.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks452.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks453.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks454.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks455.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks456.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks457.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks458.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks459.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks46.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks460.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks461.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks462.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks463.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks464.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks465.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks466.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks467.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks468.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks469.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks47.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks470.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks471.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks472.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks473.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks474.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks475.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks476.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks477.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks478.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks479.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks48.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks480.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks481.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks482.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks483.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks484.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks485.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks486.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks487.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks488.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks489.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks49.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks490.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks491.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks492.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks493.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks494.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks495.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks496.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks497.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks498.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks499.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks5.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks50.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks500.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks51.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks52.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks53.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks54.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks55.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks56.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks57.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks58.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks59.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks6.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks60.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks61.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks62.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks63.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks64.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks65.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks66.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks67.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks68.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks69.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks7.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks70.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks71.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks72.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks73.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks74.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks75.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks76.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks77.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks78.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks79.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks8.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks80.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks81.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks82.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks83.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks84.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks85.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks86.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks87.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks88.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks89.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks9.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks90.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks91.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks92.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks93.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks94.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks95.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks96.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks97.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks98.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorLeafBlocks99.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles0.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles1.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles10.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles100.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles101.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles102.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles103.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles104.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles105.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles106.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles107.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles108.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles109.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles11.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles110.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles111.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles112.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles113.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles114.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles115.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles116.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles117.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles118.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles119.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles12.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles120.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles121.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles122.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles123.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles124.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles125.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles126.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles127.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles128.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles129.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles13.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles130.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles131.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles132.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles133.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles134.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles135.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles136.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles137.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles138.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles139.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles14.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles140.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles141.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles142.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles143.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles144.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles145.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles146.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles147.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles148.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles149.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles15.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles150.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles151.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles152.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles153.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles154.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles155.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles156.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles157.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles158.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles159.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles16.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles160.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles161.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles162.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles163.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles164.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles165.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles166.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles167.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles168.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles169.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles17.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles170.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles171.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles172.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles173.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles174.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles175.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles176.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles177.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles178.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles179.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles18.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles180.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles181.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles182.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles183.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles184.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles185.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles186.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles187.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles188.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles189.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles19.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles190.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles191.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles192.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles193.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles194.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles195.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles196.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles197.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles198.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles199.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles2.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles20.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles200.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles201.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles202.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles203.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles204.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles205.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles206.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles207.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles208.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles209.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles21.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles210.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles211.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles212.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles213.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles214.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles215.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles216.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles217.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles218.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles219.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles22.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles220.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles221.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles222.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles223.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles224.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles225.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles226.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles227.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles228.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles229.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles23.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles230.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles231.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles232.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles233.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles234.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles235.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles236.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles237.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles238.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles239.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles24.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles240.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles241.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles242.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles243.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles244.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles245.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles246.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles247.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles248.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles249.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles25.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles250.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles251.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles252.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles253.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles254.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles255.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles256.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles257.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles258.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles259.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles26.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles260.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles261.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles262.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles263.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles264.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles265.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles266.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles267.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles268.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles269.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles27.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles270.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles271.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles272.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles273.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles274.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles275.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles276.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles277.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles278.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles279.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles28.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles280.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles281.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles282.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles283.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles284.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles285.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles286.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles287.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles288.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles289.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles29.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles290.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles291.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles292.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles293.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles294.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles295.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles296.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles297.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles298.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles299.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles3.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles30.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles300.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles301.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles302.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles303.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles304.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles305.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles306.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles307.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles308.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles309.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles31.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles310.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles311.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles312.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles313.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles314.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles315.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles316.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles317.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles318.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles319.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles32.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles320.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles321.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles322.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles323.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles324.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles325.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles326.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles327.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles328.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles329.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles33.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles330.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles331.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles332.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles333.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles334.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles335.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles336.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles337.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles338.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles339.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles34.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles340.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles341.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles342.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles343.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles344.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles345.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles346.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles347.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles348.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles349.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles35.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles350.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles351.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles352.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles353.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles354.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles355.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles356.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles357.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles358.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles359.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles36.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles360.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles361.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles362.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles363.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles364.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles365.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles366.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles367.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles368.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles369.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles37.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles370.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles371.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles372.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles373.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles374.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles375.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles376.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles377.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles378.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles379.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles38.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles380.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles381.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles382.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles383.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles384.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles385.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles386.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles387.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles388.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles389.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles39.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles390.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles391.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles392.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles393.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles394.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles395.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles396.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles397.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles398.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles399.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles4.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles40.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles400.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles401.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles402.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles403.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles404.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles405.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles406.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles407.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles408.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles409.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles41.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles410.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles411.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles412.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles413.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles414.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles415.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles416.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles417.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles418.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles419.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles42.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles420.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles421.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles422.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles423.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles424.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles425.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles426.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles427.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles428.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles429.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles43.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles430.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles431.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles432.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles433.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles434.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles435.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles436.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles437.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles438.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles439.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles44.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles440.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles441.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles442.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles443.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles444.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles445.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles446.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles447.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles448.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles449.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles45.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles450.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles451.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles452.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles453.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles454.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles455.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles456.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles457.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles458.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles459.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles46.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles460.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles461.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles462.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles463.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles464.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles465.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles466.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles467.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles468.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles469.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles47.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles470.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles471.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles472.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles473.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles474.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles475.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles476.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles477.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles478.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles479.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles48.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles480.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles481.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles482.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles483.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles484.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles485.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles486.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles487.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles488.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles489.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles49.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles490.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles491.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles492.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles493.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles494.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles495.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles496.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles497.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles498.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles499.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles5.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles50.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles500.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles51.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles52.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles53.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles54.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles55.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles56.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles57.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles58.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles59.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles6.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles60.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles61.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles62.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles63.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles64.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles65.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles66.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles67.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles68.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles69.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles7.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles70.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles71.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles72.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles73.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles74.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles75.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles76.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles77.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles78.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles79.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles8.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles80.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles81.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles82.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles83.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles84.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles85.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles86.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles87.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles88.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles89.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles9.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles90.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles91.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles92.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles93.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles94.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles95.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles96.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles97.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles98.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionRectangles99.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees0.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees1.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees10.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees11.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees12.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees13.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees14.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees15.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees16.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees17.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees18.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees19.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees2.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees20.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees21.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees22.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees23.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees24.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees25.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees26.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees27.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees28.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees29.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees3.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees30.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees31.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees32.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees33.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees34.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees35.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees36.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees37.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees38.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees39.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees4.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees40.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees41.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees42.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees43.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees44.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees45.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees46.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees47.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees48.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees49.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees5.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees50.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees51.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees52.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees53.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees54.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees55.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees56.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees57.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees58.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees59.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees6.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees60.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees61.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees62.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees63.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees64.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees65.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees66.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees67.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees68.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees69.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees7.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees70.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees71.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees72.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees8.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorPartitionTrees9.lean  (derived (new path))
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA0.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA1.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA10.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA100.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA101.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA102.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA103.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA104.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA105.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA106.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA107.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA108.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA109.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA11.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA110.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA111.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA112.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA113.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA114.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA115.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA116.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA117.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA118.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA119.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA12.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA120.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA121.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA122.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA123.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA124.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA125.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA126.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA127.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA128.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA129.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA13.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA130.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA131.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA132.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA133.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA134.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA135.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA136.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA137.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA138.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA139.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA14.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA140.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA141.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA142.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA143.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA144.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA145.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA146.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA147.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA148.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA149.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA15.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA150.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA151.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA152.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA153.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA154.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA155.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA156.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA157.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA158.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA159.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA16.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA160.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA161.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA162.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA163.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA164.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA165.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA166.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA167.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA168.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA169.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA17.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA170.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA171.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA172.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA173.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA174.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA175.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA176.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA177.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA178.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA179.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA18.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA180.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA181.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA182.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA183.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA184.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA185.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA186.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA19.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA2.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA20.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA21.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA22.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA23.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA24.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA25.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA26.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA27.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA28.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA29.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA3.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA30.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA31.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA32.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA33.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA34.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA35.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA36.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA37.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA38.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA39.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA4.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA40.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA41.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA42.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA43.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA44.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA45.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA46.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA47.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA48.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA49.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA5.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA50.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA51.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA52.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA53.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA54.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA55.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA56.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA57.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA58.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA59.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA6.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA60.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA61.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA62.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA63.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA64.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA65.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA66.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA67.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA68.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA69.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA7.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA70.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA71.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA72.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA73.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA74.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA75.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA76.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA77.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA78.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA79.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA8.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA80.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA81.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA82.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA83.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA84.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA85.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA86.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA87.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA88.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA89.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA9.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA90.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA91.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA92.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA93.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA94.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA95.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA96.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA97.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA98.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheA99.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB0.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB1.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB10.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB100.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB101.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB102.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB103.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB104.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB105.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB106.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB107.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB108.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB109.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB11.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB110.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB111.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB112.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB113.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB114.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB115.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB116.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB117.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB118.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB119.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB12.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB120.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB121.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB122.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB123.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB124.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB125.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB126.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB127.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB128.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB129.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB13.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB130.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB131.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB132.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB133.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB134.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB135.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB136.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB137.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB138.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB139.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB14.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB140.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB141.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB142.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB143.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB144.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB145.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB146.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB147.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB148.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB149.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB15.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB150.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB151.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB152.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB153.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB154.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB155.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB156.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB157.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB158.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB159.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB16.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB160.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB161.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB162.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB163.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB164.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB165.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB166.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB167.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB168.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB169.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB17.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB170.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB171.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB172.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB173.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB174.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB175.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB176.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB177.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB178.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB179.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB18.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB180.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB181.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB182.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB183.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB184.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB185.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB186.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB19.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB2.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB20.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB21.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB22.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB23.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB24.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB25.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB26.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB27.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB28.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB29.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB3.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB30.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB31.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB32.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB33.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB34.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB35.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB36.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB37.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB38.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB39.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB4.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB40.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB41.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB42.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB43.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB44.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB45.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB46.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB47.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB48.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB49.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB5.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB50.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB51.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB52.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB53.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB54.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB55.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB56.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB57.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB58.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB59.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB6.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB60.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB61.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB62.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB63.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB64.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB65.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB66.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB67.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB68.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB69.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB7.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB70.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB71.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB72.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB73.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB74.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB75.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB76.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB77.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB78.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB79.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB8.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB80.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB81.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB82.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB83.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB84.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB85.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB86.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB87.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB88.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB89.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB9.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB90.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB91.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB92.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB93.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB94.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB95.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB96.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB97.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB98.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorPowerCacheB99.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots0.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots1.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots10.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots11.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots12.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots13.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots14.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots2.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots3.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots4.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots5.lean
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots6.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots7.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots8.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorRadialRoots9.lean  (derived (new path))
+modified  PartialBalayage/Maximal/Square/Data/GeneratorScaleData.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorShapes.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt0.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt1.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt10.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt100.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt101.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt102.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt103.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt104.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt105.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt106.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt107.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt108.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt109.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt11.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt110.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt111.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt112.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt113.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt114.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt115.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt116.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt117.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt118.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt119.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt12.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt120.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt121.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt122.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt123.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt124.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt125.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt126.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt127.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt128.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt129.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt13.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt130.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt131.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt132.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt133.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt134.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt135.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt136.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt137.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt138.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt139.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt14.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt140.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt141.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt142.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt143.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt144.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt145.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt146.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt147.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt148.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt149.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt15.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt150.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt151.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt152.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt153.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt154.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt155.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt156.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt157.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt158.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt159.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt16.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt160.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt161.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt162.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt163.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt164.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt165.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt166.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt167.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt168.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt169.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt17.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt170.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt171.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt172.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt173.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt174.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt175.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt176.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt177.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt178.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt179.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt18.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt180.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt181.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt182.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt183.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt184.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt185.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt186.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt19.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt2.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt20.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt21.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt22.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt23.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt24.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt25.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt26.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt27.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt28.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt29.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt3.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt30.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt31.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt32.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt33.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt34.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt35.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt36.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt37.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt38.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt39.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt4.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt40.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt41.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt42.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt43.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt44.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt45.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt46.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt47.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt48.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt49.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt5.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt50.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt51.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt52.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt53.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt54.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt55.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt56.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt57.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt58.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt59.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt6.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt60.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt61.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt62.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt63.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt64.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt65.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt66.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt67.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt68.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt69.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt7.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt70.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt71.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt72.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt73.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt74.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt75.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt76.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt77.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt78.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt79.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt8.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt80.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt81.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt82.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt83.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt84.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt85.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt86.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt87.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt88.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt89.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt9.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt90.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt91.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt92.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt93.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt94.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt95.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt96.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt97.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt98.lean
+ours      PartialBalayage/Maximal/Square/Data/GeneratorTaylorInt99.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRadialRows.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows0.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows1.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows10.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows11.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows12.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows13.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows14.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows15.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows16.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows17.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows2.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows3.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows4.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows5.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows6.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows7.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows8.lean
+ours      PartialBalayage/Maximal/Square/Data/MajRows9.lean
+modified  PartialBalayage/Maximal/Square/Data/RepresentativeCoefficientMatrix.lean
+ours      PartialBalayage/Maximal/Square/Data/RepresentativeCoefficientRows.lean

@@ -1,0 +1,8 @@
+bern_min: NaN coefficient -> -inf                            FIRES (ok)
+fin(nan) -> -inf                                             FIRES (ok)
+APsi_lower_const: NaN bound -> -inf                          FIRES (ok)
+subcell_lower: NaN const bound, no Taylor -> not > 0         FIRES (ok)
+apow(nan) raises                                             FIRES (ok)
+Spec rejects key 3,5 (J > I)                                 FIRES (ok)
+quad_A L1 raises on truncated series (cap 16)                FIRES (ok)
+ALL GUARDS FIRE

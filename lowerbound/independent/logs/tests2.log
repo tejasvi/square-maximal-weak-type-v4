@@ -1,0 +1,4 @@
+(1) union_area vs inclusion-exclusion, 400 random sets + large coordinates: PASS
+(2) lb_check2 == lb_check (exact) on 12 random small configurations: 12/12 PASS
+(3) claim above the value -> rc 1, claim equal -> rc 0: PASS
+ALL PASS

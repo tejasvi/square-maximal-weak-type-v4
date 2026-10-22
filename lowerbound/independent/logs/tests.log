@@ -1,0 +1,14 @@
+union area vs inclusion-exclusion, 400 random sets: PASS
+large-coordinate case: PASS
+toy1 (value 1/4): PASS ['lam A / mu(C) = 1/4', '             ~= 0.250000000000; claimed 1/4 ~= 0.250000000000', 'RESULT: PASS']
+toy2 (reach 0, A = (1-2/D)^2): PASS lam A / mu(C) = 261121/262144
+toy3 (claim too high -> FAIL, rc 1): PASS
+validation D0: PASS FAIL: D must be an integer >= 1
+validation win0: PASS FAIL: window must be an integer >= 1
+validation mass0: PASS FAIL: atom 0 has mass <= 0
+validation outside: PASS FAIL: atom 0 outside the cell
+validation dup: PASS FAIL: two atoms at the same point (merge them)
+validation Dbool: PASS FAIL: D must be an integer >= 1
+validation noatoms: PASS FAIL: no atoms
+validation lamneg: PASS FAIL: need lam > 0, P_x > 0, P_y > 0, reach >= 0
+toy5 (window too small -> FAIL): PASS FAIL: window too small for (i): margin 1 < reach + max(P_x, P_y)

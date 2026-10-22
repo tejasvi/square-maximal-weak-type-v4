@@ -1,0 +1,7 @@
+(T2) bound <= sampled K: 1800 samples, 0 violations
+SYN_OK: C1 cells 406 fails 0 | C2 cells 72 leaves 88 fails 0 min [1.24454 +/- 8.47e-7]
+DIP_OUT: knot (9,7) r = 32/31: K = [0.981404 +/- 2.02e-7] ; sampled min of K on D near it = [1.03855 +/- 3.98e-6] at (35/62,27/62)
+DIP_OUT: C1 cells 406 fails 0 | C2 cells 72 leaves 88 fails 0 min [1.03178 +/- 4.17e-6]
+DIP_IN: knot (8,7) r = 30/31: K = [0.934050 +/- 3.19e-7] ; sampled min of K on D near it = [0.926263 +/- 3.33e-8] at (143/310,159/310)
+DIP_IN: C1 cells 406 fails 0 | C2 cells 72 leaves 321 fails 16465 min [1.00001 +/- 2.54e-6]
+(T3) expected: SYN_OK pass, DIP_OUT pass, DIP_IN FAIL -> OK

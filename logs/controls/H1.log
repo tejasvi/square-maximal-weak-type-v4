@@ -1,0 +1,3 @@
+spec sha256 bd8d91b535e0a91f ; hl_check ca35070d1b68dd58 ; hl_core c3d864b1368ad815 ; flint 0.9.0
+C3 mass: (1/2) int K in [3.59122432750645 +/- 2.35e-15] ; claim 1786761457/497536848 ; FAIL
+OVERALL (c3): FAIL

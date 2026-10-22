@@ -1,0 +1,4 @@
+import CenteredMaximal.Periodic.Main
+
+#print axioms CenteredMaximal.ofReal_le_weakTypeConstant_two
+#print axioms CenteredMaximal.ofReal_le_weakTypeConstant_two_exact

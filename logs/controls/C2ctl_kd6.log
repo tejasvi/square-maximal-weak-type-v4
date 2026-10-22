@@ -1,0 +1,5 @@
+spec sha256 59918475211830bd ; hl_check ca35070d1b68dd58 ; hl_core c3d864b1368ad815 ; flint 0.9.0
+C1 K >= 0: 1368 knot cells, 2025 leaves, min lower 0, failures 0
+C2 K >= 1 on D: 272 knot cells, 380 leaves, min lower [1.0000037 +/- 1.36e-8], failures 69
+  (8.4 s)
+OVERALL (c2): FAIL

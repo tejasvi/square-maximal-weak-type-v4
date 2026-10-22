@@ -1,0 +1,3 @@
+FAIL: atom 2: mass <= 0
+RESULT: FAIL
+rc 1

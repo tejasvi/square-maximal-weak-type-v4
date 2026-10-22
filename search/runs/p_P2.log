@@ -1,0 +1,175 @@
+map: 0 coarse (h_c=0.0) + 1369 fine (h=0.03125) classes in bands all (plain); fine problem classes 3321; t=0.0
+level-1 candidates 53996 (53956 global, 0 band); t=0.3
+  Bernstein rows available: 93248 (of 218688)
+  Bernstein matrix built (sub=2) t=2.8
+init_from runs/w11_a1.175_R1.65_h32.npz: 30814 near-active A + stride -> 33713 A rows; 49417 near-active Bernstein rows; start value 3.592846, min Bernstein slack -2.64e-18, min A on candidates 0.000e+00
+  initial rows 83130 t=6.2
+  it 0 val 3.590932 ncand 53996 violB 6133 (8.57e-08) violA 320 (2.902e+03) new 0/320 rows 83130 t 358.1
+  it 1 val 3.591157 ncand 53996 violB 6313 (9.75e-08) violA 17 (2.328e+00) new 0/15 rows 83450 t 506.8
+  it 2 val 3.591160 ncand 53996 violB 6671 (7.21e-08) violA 4 (2.132e-01) new 0/3 rows 83465 t 515.5
+  it 3 val 3.591160 ncand 53996 violB 7200 (9.10e-08) violA 1 (3.768e-05) new 0/0 rows 83468 t 519.9
+LEVEL 1 val 3.591160
+level 2 df=0.003906: probed 215496 pts, violators 1769, minA -3.558e+02
+  it 0 val 3.591204 ncand 55765 violB 5158 (5.87e-08) violA 0 (1.520e-05) new 0/0 rows 85237 t 69.5
+    round 1: val 3.591204 remaining violators 190 minA -6.514e+00
+  it 0 val 3.591206 ncand 55955 violB 4979 (5.98e-08) violA 0 (1.377e-05) new 0/0 rows 85427 t 13.3
+    round 2: val 3.591206 remaining violators 24 minA -1.184e+00
+  it 0 val 3.591206 ncand 55979 violB 4971 (5.97e-08) violA 0 (2.154e-05) new 0/0 rows 85451 t 4.6
+    round 3: val 3.591206 remaining violators 5 minA -7.973e-10
+  it 0 val 3.591206 ncand 55984 violB 4983 (5.97e-08) violA 1 (3.160e-05) new 0/0 rows 85456 t 1.8
+    round 4: val 3.591206 remaining violators 2 minA -7.973e-10
+  it 0 val 3.591206 ncand 55986 violB 4984 (5.97e-08) violA 2 (3.177e-05) new 0/0 rows 85458 t 1.8
+    round 5: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55987 violB 4984 (5.97e-08) violA 3 (3.177e-05) new 0/0 rows 85459 t 1.7
+    round 6: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55988 violB 4984 (5.97e-08) violA 4 (3.177e-05) new 0/0 rows 85460 t 1.7
+    round 7: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55989 violB 4984 (5.97e-08) violA 5 (3.177e-05) new 0/0 rows 85461 t 1.7
+    round 8: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55990 violB 4984 (5.97e-08) violA 6 (3.177e-05) new 0/0 rows 85462 t 1.7
+    round 9: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55991 violB 4984 (5.97e-08) violA 7 (3.177e-05) new 0/0 rows 85463 t 1.7
+    round 10: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55992 violB 4984 (5.97e-08) violA 8 (3.177e-05) new 0/0 rows 85464 t 1.7
+    round 11: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55993 violB 4984 (5.97e-08) violA 9 (3.177e-05) new 0/0 rows 85465 t 1.6
+    round 12: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55994 violB 4984 (5.97e-08) violA 10 (3.177e-05) new 0/0 rows 85466 t 1.7
+    round 13: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55995 violB 4984 (5.97e-08) violA 11 (3.177e-05) new 0/0 rows 85467 t 1.7
+    round 14: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55996 violB 4984 (5.97e-08) violA 12 (3.177e-05) new 0/0 rows 85468 t 1.7
+    round 15: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55997 violB 4984 (5.97e-08) violA 13 (3.177e-05) new 0/0 rows 85469 t 1.7
+    round 16: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55998 violB 4984 (5.97e-08) violA 14 (3.177e-05) new 0/0 rows 85470 t 1.7
+    round 17: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 55999 violB 4984 (5.97e-08) violA 15 (3.177e-05) new 0/0 rows 85471 t 1.6
+    round 18: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56000 violB 4984 (5.97e-08) violA 16 (3.177e-05) new 0/0 rows 85472 t 1.7
+    round 19: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56001 violB 4984 (5.97e-08) violA 17 (3.177e-05) new 0/0 rows 85473 t 1.7
+    round 20: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56002 violB 4984 (5.97e-08) violA 18 (3.177e-05) new 0/0 rows 85474 t 1.7
+    round 21: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56003 violB 4984 (5.97e-08) violA 19 (3.177e-05) new 0/0 rows 85475 t 1.7
+    round 22: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56004 violB 4984 (5.97e-08) violA 20 (3.177e-05) new 0/0 rows 85476 t 1.7
+    round 23: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56005 violB 4984 (5.97e-08) violA 21 (3.177e-05) new 0/0 rows 85477 t 1.7
+    round 24: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56006 violB 4984 (5.97e-08) violA 22 (3.177e-05) new 0/0 rows 85478 t 1.7
+    round 25: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56007 violB 4984 (5.97e-08) violA 23 (3.177e-05) new 0/0 rows 85479 t 1.7
+    round 26: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56008 violB 4984 (5.97e-08) violA 24 (3.177e-05) new 0/0 rows 85480 t 1.7
+    round 27: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56009 violB 4984 (5.97e-08) violA 25 (3.177e-05) new 0/0 rows 85481 t 1.7
+    round 28: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56010 violB 4984 (5.97e-08) violA 26 (3.177e-05) new 0/0 rows 85482 t 1.7
+    round 29: val 3.591206 remaining violators 1 minA -7.973e-10
+  it 0 val 3.591206 ncand 56011 violB 4984 (5.97e-08) violA 27 (3.177e-05) new 0/0 rows 85483 t 1.6
+    round 30: val 3.591206 remaining violators 1 minA -7.973e-10
+level 2 df=0.003906: probed 215496 pts, violators 394, minA -1.463e+00
+  it 0 val 3.591210 ncand 56405 violB 5045 (5.51e-08) violA 0 (2.145e-05) new 0/0 rows 85877 t 16.0
+    round 1: val 3.591210 remaining violators 49 minA -1.948e-02
+  it 0 val 3.591210 ncand 56454 violB 5045 (5.59e-08) violA 0 (1.815e-05) new 0/0 rows 85926 t 5.7
+    round 2: val 3.591210 remaining violators 5 minA -8.024e-10
+  it 0 val 3.591210 ncand 56459 violB 5047 (5.59e-08) violA 0 (1.942e-05) new 0/0 rows 85931 t 1.9
+    round 3: val 3.591210 remaining violators 2 minA -8.023e-10
+  it 0 val 3.591210 ncand 56461 violB 5049 (5.59e-08) violA 0 (2.213e-05) new 0/0 rows 85933 t 2.5
+    round 4: val 3.591210 remaining violators 1 minA -8.022e-10
+  it 0 val 3.591210 ncand 56462 violB 5047 (5.59e-08) violA 0 (1.891e-05) new 0/0 rows 85934 t 1.8
+    round 5: val 3.591210 remaining violators 0 minA -8.023e-10
+LEVEL 2 val 3.591210 ncand 56462
+level 3 df=0.001953: probed 861328 pts, violators 1061, minA -1.548e+01
+  it 0 val 3.591218 ncand 57523 violB 4980 (4.36e-08) violA 1 (1.263e-03) new 0/1 rows 86995 t 78.2
+  it 1 val 3.591218 ncand 57523 violB 4982 (4.36e-08) violA 0 (1.858e-05) new 0/0 rows 86996 t 80.0
+    round 1: val 3.591218 remaining violators 235 minA -5.903e-02
+  it 0 val 3.591218 ncand 57758 violB 4980 (4.39e-08) violA 0 (2.075e-05) new 0/0 rows 87231 t 9.5
+    round 2: val 3.591218 remaining violators 62 minA -6.848e-10
+  it 0 val 3.591218 ncand 57820 violB 4980 (4.40e-08) violA 0 (2.002e-05) new 0/0 rows 87293 t 3.8
+    round 3: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57825 violB 4982 (4.40e-08) violA 2 (3.425e-05) new 0/0 rows 87298 t 1.9
+    round 4: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57830 violB 4983 (4.40e-08) violA 7 (3.425e-05) new 0/0 rows 87303 t 1.6
+    round 5: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57835 violB 4983 (4.40e-08) violA 12 (3.425e-05) new 0/0 rows 87308 t 1.6
+    round 6: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57840 violB 4983 (4.40e-08) violA 17 (3.425e-05) new 0/0 rows 87313 t 1.6
+    round 7: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57845 violB 4983 (4.40e-08) violA 22 (3.425e-05) new 0/0 rows 87318 t 1.6
+    round 8: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57850 violB 4983 (4.40e-08) violA 27 (3.425e-05) new 0/0 rows 87323 t 1.5
+    round 9: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57855 violB 4983 (4.40e-08) violA 32 (3.425e-05) new 0/0 rows 87328 t 1.5
+    round 10: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57860 violB 4983 (4.40e-08) violA 37 (3.425e-05) new 0/0 rows 87333 t 1.5
+    round 11: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57865 violB 4983 (4.40e-08) violA 42 (3.425e-05) new 0/0 rows 87338 t 1.5
+    round 12: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57870 violB 4983 (4.40e-08) violA 47 (3.425e-05) new 0/0 rows 87343 t 1.5
+    round 13: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57875 violB 4983 (4.40e-08) violA 52 (3.425e-05) new 0/0 rows 87348 t 1.5
+    round 14: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57880 violB 4983 (4.40e-08) violA 57 (3.425e-05) new 0/0 rows 87353 t 1.5
+    round 15: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57885 violB 4983 (4.40e-08) violA 62 (3.425e-05) new 0/0 rows 87358 t 1.5
+    round 16: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57890 violB 4983 (4.40e-08) violA 67 (3.425e-05) new 0/0 rows 87363 t 1.5
+    round 17: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57895 violB 4983 (4.40e-08) violA 72 (3.425e-05) new 0/0 rows 87368 t 1.5
+    round 18: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57900 violB 4983 (4.40e-08) violA 77 (3.425e-05) new 0/0 rows 87373 t 1.6
+    round 19: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57905 violB 4983 (4.40e-08) violA 82 (3.425e-05) new 0/0 rows 87378 t 1.6
+    round 20: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57910 violB 4983 (4.40e-08) violA 87 (3.425e-05) new 0/0 rows 87383 t 1.5
+    round 21: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57915 violB 4983 (4.40e-08) violA 92 (3.425e-05) new 0/0 rows 87388 t 1.5
+    round 22: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57920 violB 4983 (4.40e-08) violA 97 (3.425e-05) new 0/0 rows 87393 t 1.6
+    round 23: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57925 violB 4983 (4.40e-08) violA 102 (3.425e-05) new 0/0 rows 87398 t 1.5
+    round 24: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57930 violB 4983 (4.40e-08) violA 107 (3.425e-05) new 0/0 rows 87403 t 1.5
+    round 25: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57935 violB 4983 (4.40e-08) violA 112 (3.425e-05) new 0/0 rows 87408 t 1.5
+    round 26: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57940 violB 4983 (4.40e-08) violA 117 (3.425e-05) new 0/0 rows 87413 t 1.5
+    round 27: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57945 violB 4983 (4.40e-08) violA 122 (3.425e-05) new 0/0 rows 87418 t 1.5
+    round 28: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57950 violB 4983 (4.40e-08) violA 127 (3.425e-05) new 0/0 rows 87423 t 1.5
+    round 29: val 3.591218 remaining violators 5 minA -6.850e-10
+  it 0 val 3.591218 ncand 57955 violB 4983 (4.40e-08) violA 132 (3.425e-05) new 0/0 rows 87428 t 1.8
+    round 30: val 3.591218 remaining violators 5 minA -6.850e-10
+level 3 df=0.001953: probed 861328 pts, violators 200, minA -8.331e-01
+  it 0 val 3.591223 ncand 58155 violB 4962 (4.43e-08) violA 0 (2.368e-05) new 0/0 rows 87628 t 17.2
+    round 1: val 3.591223 remaining violators 58 minA -4.658e-02
+  it 0 val 3.591223 ncand 58213 violB 5072 (4.43e-08) violA 0 (2.001e-05) new 0/0 rows 87686 t 4.1
+    round 2: val 3.591223 remaining violators 16 minA -6.118e-10
+  it 0 val 3.591223 ncand 58229 violB 5078 (4.42e-08) violA 0 (2.128e-05) new 0/0 rows 87702 t 2.4
+    round 3: val 3.591223 remaining violators 4 minA -6.119e-10
+  it 0 val 3.591223 ncand 58233 violB 5127 (4.38e-08) violA 1 (3.738e-05) new 0/0 rows 87706 t 3.1
+    round 4: val 3.591223 remaining violators 6 minA -6.120e-10
+  it 0 val 3.591223 ncand 58239 violB 5121 (4.38e-08) violA 0 (2.983e-05) new 0/0 rows 87712 t 2.7
+    round 5: val 3.591223 remaining violators 1 minA -6.119e-10
+  it 0 val 3.591223 ncand 58240 violB 5124 (4.38e-08) violA 0 (1.901e-05) new 0/0 rows 87713 t 2.0
+    round 6: val 3.591223 remaining violators 3 minA -6.118e-10
+  it 0 val 3.591223 ncand 58243 violB 5116 (4.38e-08) violA 0 (2.427e-05) new 0/0 rows 87716 t 3.6
+    round 7: val 3.591223 remaining violators 2 minA -6.118e-10
+  it 0 val 3.591223 ncand 58245 violB 5127 (4.38e-08) violA 0 (2.838e-05) new 0/0 rows 87718 t 1.9
+    round 8: val 3.591223 remaining violators 1 minA -6.118e-10
+  it 0 val 3.591223 ncand 58246 violB 5125 (4.37e-08) violA 0 (1.936e-05) new 0/0 rows 87719 t 1.8
+    round 9: val 3.591223 remaining violators 0 minA -6.118e-10
+LEVEL 3 val 3.591223 ncand 58246
+CERTLOOP 0: val 3.591223 mass [3.59122285050668248056611307 +/- 4.31e-27] A-fail 51353 K-fail 11440 t=52s
+  it 0 val 3.591224 ncand 497515 violB 5222 (7.21e-08) violA 0 (2.412e-05) new 0/0 rows 526988 t 247.0
+CERTLOOP 1: val 3.591224 mass [3.591223614240386926097456170 +/- 8.64e-28] A-fail 234 K-fail 10640 t=22s
+  it 0 val 3.591224 ncand 573328 violB 5228 (7.20e-08) violA 0 (2.282e-05) new 0/0 rows 602801 t 142.0
+CERTLOOP 2: val 3.591224 mass [3.591223616100336150072018366 +/- 7.04e-28] A-fail 0 K-fail 10650 t=21s
+  K-fix: raised 384 classes by 1e-07
+CERTLOOP 3: val 3.591224 mass [3.591223731226122387585257396 +/- 7.69e-28] A-fail 0 K-fail 0 t=23s
+CERTIFIED (search-side verifier): runs/p_P2.npz.cert3.json
+{"alpha": 1.175, "h": 0.03125, "N": 80, "box": 2.5, "sings": [[1.175, 1.65]], "val": 3.5912236151297625, "hist": [[1, 3.5911602111225105, 53996], [2, 3.5912104444112836, 56462], [3, 3.591222849597087, 58246]], "U": 2.5625, "c": [1.7984289369437279], "patches": "", "ncand": 573328, "minA_cand": -3.324256413551898e-10, "h_c": 0.0, "bands": [[0.8, 1.25]], "ncoarse": 0, "nfine": 1369}
