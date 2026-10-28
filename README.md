@@ -2,8 +2,9 @@
 
 Certificates, checkers, search programs and Lean proofs for the paper *Bounds for the weak type (1,1) constant of the
 centred maximal operator over squares* by Tejasvi Singh Tomar
-(Zenodo, [doi:10.5281/zenodo.23554628](https://doi.org/10.5281/zenodo.23554628)). This repository is archived in the
-supplement record [doi:10.5281/zenodo.23554629](https://doi.org/10.5281/zenodo.23554629).
+(Zenodo, [doi:10.5281/zenodo.23716077](https://doi.org/10.5281/zenodo.23716077)). This repository is archived in the
+supplement record [doi:10.5281/zenodo.23716078](https://doi.org/10.5281/zenodo.23716078); `paper/main.tex` is the LaTeX
+source of the paper.
 
 ## Theorem
 
@@ -272,4 +273,4 @@ the proof and the build (`lake exe cache get`, then `lake build`, about 25 s onc
 
 ## Licence
 
-Apache License 2.0; see `LICENSE`.
+Apache License 2.0; see `LICENSE`. The LaTeX source of the paper is under CC BY 4.0.

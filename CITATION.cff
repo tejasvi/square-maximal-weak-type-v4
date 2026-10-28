@@ -5,9 +5,11 @@ authors:
   - family-names: Tomar
     given-names: Tejasvi Singh
     orcid: "https://orcid.org/0000-0003-4668-3639"
-license: Apache-2.0
-repository-code: "https://github.com/tejasvi/square-maximal-weak-type-v4"
-doi: 10.5281/zenodo.23554629
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+repository-code: "https://github.com/tejasvi/square-maximal-weak-type"
+doi: 10.5281/zenodo.23716078
 preferred-citation:
   type: article
   title: "Bounds for the weak type (1,1) constant of the centred maximal operator over squares"
@@ -15,5 +17,5 @@ preferred-citation:
     - family-names: Tomar
       given-names: Tejasvi Singh
       orcid: "https://orcid.org/0000-0003-4668-3639"
-  doi: 10.5281/zenodo.23554628
+  doi: 10.5281/zenodo.23716077
   year: 2026

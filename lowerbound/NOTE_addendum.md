@@ -1,6 +1,6 @@
 # Addendum to frozen/NOTE_lower_bound_ad4ef0ed.md (FORMAT and one proof line)
 
-Written 2026-10-21 05:44 PDT at audit-uncert's request (FORMAT section, rho_S <= d line).
+Written 2026-10-21 05:44 PDT at the request of an internal review (FORMAT section, rho_S <= d line).
 
 Applies to the frozen certificate frozen/c2lower_1p70272_e2ca1616.json (frozen/SHA256SUMS d9d21127...). frozen/ itself
 is unchanged; this file is separate on purpose. Checkers: frozen/check_exact2_abb311c7.py (integers) and
